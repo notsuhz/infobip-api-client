@@ -1,0 +1,14 @@
+{
+  "name": "infobip-api-client",
+  "version": "0.1.0",
+  "description": "Infobip API client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "infobip"
+  ],
+  "author": "Suhaimi Amir <suhaimi.hz@gmail.com>",
+  "license": "MIT"
+}
